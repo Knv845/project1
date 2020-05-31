@@ -1,0 +1,33 @@
+#img-pic{
+    max-width: 100%;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-bottom: auto;
+    margin-right: auto;
+
+}
+#img-pic2{
+    max-width: 100%;
+    float: right;
+    margin-top: 1%;
+    margin-right: 10%;
+}
+row{
+    width: 2px;
+    height: 2px;
+}
+#prg{
+    width: 1500px;
+    height: 100px;
+    background-color: blue;
+    text-align: center;
+    color: chartreuse;
+
+}
+#soso{
+    height: 10%;
+    width: 50%;
+    background-color: aqua;
+    text-align: center;
+    padding: 10%;
+}
